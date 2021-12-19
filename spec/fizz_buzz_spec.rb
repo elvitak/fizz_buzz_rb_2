@@ -1,3 +1,5 @@
+require_relative "../src/fizz_buzz"
+
 describe FizzBuzz do
 
   subject{ FizzBuzz.new}
